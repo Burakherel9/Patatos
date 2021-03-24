@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    background-color: #e4f9f5;
+    font-family: Merriweather, serif;
+   
+}
+
+.en-ust{
+ position: relative;
+ padding-top: 95px;
+}
+h1{
+    font-family: Sacramento, cursive;
+   font-size: 60px;
+   color: #66BFBF;
+ 
+}
+
+h2{
+    font-family: Montserrat, sans-serif;
+    font-size: 2.5rem;
+}
+h3{
+    font-family: Montserrat, sans-serif;
+}
+
+.bottom-cloud{
+   position: absolute;  
+  left: 300px;
+   bottom: 300px;  
+}
+
+.ust-bulut{
+    
+   position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.hepsi{
+    width: 256px;
+    height: 256px;
+    
+}
+
+.dag{
+    position: relative;
+}
+
+#patato{
+    color: #66BFBF;
+    font-weight: normal;
+  }
+
+
+.middle-container{
+
+    margin: 100px auto 100px auto;
+}  
+
+
+
+
